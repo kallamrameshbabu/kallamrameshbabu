@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kallamrameshbabu
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Machine Learning, Artifical Intelligence
+- 👀 I’m interested in Data Analysis, Cloud Technologies
+- 🌱 I’m currently learning Python, Machine Learning, Artifical Intelligence, Azure Cloud Computing, Salesforce
 - 💞️ I’m looking to collaborate on predicting the future values of any dataset using the historical values
 - 📫 How to reach me kallamrameshbabu@gmail.com
 
